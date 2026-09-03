@@ -276,3 +276,16 @@ The project directly answers the following business questions:
 | **Matplotlib** | Creating charts and visualizing trends |
 | **Seaborn** | Statistical visualizations and exploratory analysis |
 | **Jupyter Notebook** | Interactive environment for analysis and visualization |
+
+<br>
+<p>If you found this project helpful, consider giving it a ⭐ on GitHub!<br> Thank you❤️</p>
+<div>
+  <h2>Connect with Me</h2>
+<a href="mailto:aiswarya2000mohan@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://www.linkedin.com/in/aiswarya-mohan-950948221/">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+</div>
+ 
